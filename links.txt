@@ -1,2 +1,6 @@
+url = https://github.com/robot-dreams-code/Computer-Vision-v2.git
+
+
 install tf on GPU instructions
+
 https://www.lavivienpost.com/install-tensorflow-gpu-on-windows-complete-guide/
