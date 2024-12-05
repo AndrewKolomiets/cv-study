@@ -1,0 +1,2 @@
+install tf on GPU instructions
+https://www.lavivienpost.com/install-tensorflow-gpu-on-windows-complete-guide/
