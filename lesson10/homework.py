@@ -6,8 +6,8 @@ import time
 ### Step 1
 #Decide what video you are going to use for this homework, select an object and generate the template. You can use any video you want (your own, from Youtube, etc.)
 #and track any object you want (e.g. a car, a pedestrian, etc.).
-
-stream = cv2.VideoCapture("istockphoto-1155019062-640_adpp_is.mp4")
+print(cv2.__version__)
+stream = cv2.VideoCapture("d:\RepoDevel\cv-study\lesson10\istockphoto-1155019062-640_adpp_is.mp4")
 
 # target appears on 5th frame
 for _ in range(5):
