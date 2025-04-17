@@ -1,3 +1,5 @@
 ﻿lesson13/data/
 lesson15/cats_vs_dogs
-.ipynb_checkpoints
+/lesson15/data/Cat
+/lesson15/data/Dog
+*.ipynb_*
